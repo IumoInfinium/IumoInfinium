@@ -17,3 +17,6 @@
 ---
 
 <img align="left" alt="IumoInfinium's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=IumoInfinium&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IumoInfinium)](https://github.com/IumoInfinium/editoe/) -->
