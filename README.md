@@ -1,7 +1,7 @@
 #### Hello there !!
 
 - 👋 Hii, I'm Yash Mali
-- 😎 I like to make things which would i use personally
+- 😎 I like to make things which would i use
 - 👨‍💻 Experienced with Django & Flask (Python),React and databases. 
 - ❤  I will be happy to work with others and contribute.
 
