@@ -1,14 +1,13 @@
 #### Hello there !!
 
 - 👋 Hii, I'm Yash Mali
-- 🙃 Just your everyday guy, whose gone nuts over programming!
-- 😎 Like to make things free-to-use and helpful
-- 👨‍💻 Currently doing backennd stuff with Django
-- ❤ Happy to collaborate with other contributors `{\("~"\}`
+- 😎 I like to make things which would i use personally
+- 👨‍💻 Experienced with Django & Flask (Python),React and databases. 
+- ❤  I will be happy to work with others and contribute.
 
 #### Check some of my works at -
 
-- [Lakebrains Website](https://www.sales.lakebrains.com)
+- [Lakebrains Website](https://www.idealeads.in/lead-gen)
   
 #### Discover me on -
 
