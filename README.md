@@ -4,9 +4,13 @@ CS Student | Sophomore | Terminal Guy
 
 Check out my pinned repostories to know more about the stuff I do :)
 
-Currenty Doing -
+## Currenty Doing
+
 - enhancing my DSA skills.
 - Learning more about GNU/Linux.
+
+## My socials -
+
 <center>
 
 [<img src="https://cdn-icons-png.flaticon.com/128/5969/5969023.png" width=35xxxxpx height=35px>](https://dev.to/iumoinfinium)
