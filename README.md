@@ -15,7 +15,7 @@ Check out my pinned repostories to know more about the stuff I do :)
 <a href="https://instagram.com/iumo_yash" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=35px height=35px></a>
 <a href="https://www.twitter.com/iumohere" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width=35px height=35px></a>
 <a href="https://www.linkedin.com/in/yash-mali" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=35px height=35px></a>
-<a href="https://www.codechef.com/users/iumoinfinuim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_paneri" height="35" width="45" style="margin-top:-30px"/></a>
+<!-- <a href="https://www.codechef.com/users/iumoinfinuim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit_paneri" height="35" width="45" style="margin-top:-1000px"/></a> -->
 
 Feel free to contact me, at [yashmalihere@gmail.com](mailto:yashmalihere@gmail.com) to discuss anything :)
 
