@@ -39,10 +39,11 @@ Wanna know more about the things I did? Check out my pinned repositories !
 ### 📌 Profiles 
 
 <!-- <a style="padding-right:10px;" href="https://dev.to/iumoinfinium" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969023.png" width=35px height=35px></a> -->
-<a style="padding-right:10px;" href="https://instagram.com/iumo_yash" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=35px height=35px></a>
+<!-- <a style="padding-right:10px;" href="https://instagram.com/iumo_yash" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=35px height=35px></a> -->
 <a style="padding-right:10px;" href="https://www.twitter.com/iumohere" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width=35px height=35px></a>
 <a style="padding-right:10px;" href="https://www.linkedin.com/in/yash-mali" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=35px height=35px></a>
 <a href="https://www.codechef.com/users/iumoinfinuim" target="_blank"><img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="iumoinfinuim" width=35px height=35px ></a>
+<a href="https://www.leetcode.com/iumoinfinium" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width=35px height=35px></a>
 
 Feel free to contact me, at [yashmalihere@gmail.com](mailto:yashmalihere@gmail.com) to discuss anything :)
 
@@ -51,3 +52,5 @@ Feel free to contact me, at [yashmalihere@gmail.com](mailto:yashmalihere@gmail.c
 <img align="center" alt="IumoInfinium's  Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iumoinfinium&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ![](https://komarev.com/ghpvc/?username=iumoinfinium) -->
