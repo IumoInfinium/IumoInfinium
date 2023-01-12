@@ -48,6 +48,6 @@ Feel free to contact me, at [yashmalihere@gmail.com](mailto:yashmalihere@gmail.c
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img align="center" alt="IumoInfinium's  Github Stats" src="https://github-readme-stats.vercel.app/api?username=IumoInfinium&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img align="center" alt="IumoInfinium's  Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iumoinfinium&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
