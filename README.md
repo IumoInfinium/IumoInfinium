@@ -38,7 +38,6 @@ Wanna know more about the things I did? Check out my pinned repositories !
 
 ### 📌 Profiles 
 
-![](https://komarev.com/ghpvc/?username=iumoinfinium&color=blueviolet)
 <!-- <a style="padding-right:10px;" href="https://dev.to/iumoinfinium" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969023.png" width=35px height=35px></a> -->
 <!-- <a style="padding-right:10px;" href="https://instagram.com/iumo_yash" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=35px height=35px></a> -->
 <a style="padding-right:10px;" href="https://www.twitter.com/iumohere" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width=35px height=35px></a>
@@ -55,3 +54,4 @@ Feel free to contact me, at [yashmalihere@gmail.com](mailto:yashmalihere@gmail.c
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ![](https://komarev.com/ghpvc/?username=iumoinfinium) -->
+![](https://komarev.com/ghpvc/?username=iumoinfinium&color=blueviolet&label=Loved+by)
