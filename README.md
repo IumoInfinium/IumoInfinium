@@ -7,7 +7,7 @@ i recently worked on my personal man(ga/hua/hwa) manager, which i call mangaone.
 ## what i do
 - write technical(maybe non-tech) blogs on [my blog](https://yashh.vercel.app/blog)
 - read some articles
-- code some st
+- code some stuff and chill
 
 ## links
 Website: [yashh.vercel.app](https://yashh.vercel.app)  
